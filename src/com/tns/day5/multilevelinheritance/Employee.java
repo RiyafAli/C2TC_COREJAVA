@@ -1,7 +1,6 @@
 package com.tns.day5.multilevelinheritance;
 
 import java.util.Date;
-
 public class Employee extends Person {
 	private String deptName;
 	private double baseSalary;
