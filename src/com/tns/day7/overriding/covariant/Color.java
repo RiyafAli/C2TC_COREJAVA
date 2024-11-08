@@ -6,6 +6,7 @@ public class Color {
 			Color s = new Color();
 			return s;
 		}
+		//hfhghg
 	}
 
 	//this class will inherit from the class color and will override the getcolor() method returning the object of the type red class
