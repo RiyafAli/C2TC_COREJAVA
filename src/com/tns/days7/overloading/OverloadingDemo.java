@@ -5,7 +5,7 @@ public class OverloadingDemo {
 
 		System.out.println("------------------------ Constructor Overloading -----------------------");
 		
-		Point p = new Point(); //default constructor invoked
+		Point p = new ,l(); //default constructor invoked
 		System.out.println(p);
 
 		Point p1 = new Point(14.5f); //single parameter constructor
