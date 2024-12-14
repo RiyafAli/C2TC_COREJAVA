@@ -2,7 +2,7 @@ package Assignment1;
 import Assignment1.Employee;
 import Assignment1.Manager;
 import Assignment1.Developer;
-public class EmployeeUtilities {
+public class EmployeeUtilities{
 public static void printEmployeeDetails(Employee employee) {
 System.out.println("Employee Name: " + employee.getName());
 System.out.println("Employee ID: " + employee.getEmployeeId());
