@@ -1,6 +1,6 @@
 package Assignment1;
 
-public class Employee {
+public class Employee{
 private String name;
 private int employeeId;
 private double salary;
